@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Music Store Data Analysis Project </b>
-  - [Music Store Data Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Music Store Data Analysis](https://github.com/daviddxuee/SQL_MUSIC_STORE)
 
 <h2> 🤳 Connect with me:</h2>
 
