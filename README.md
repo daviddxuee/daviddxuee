@@ -1,33 +1,47 @@
-<h1>Hi, I'm David! </h1>
+<h1>Hi, I'm David Xue 👋</h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<p><b>IT Audit | Data Analytics | Technology Consulting</b></p>
 
-- <b>Music Store Data Analysis Project </b>
-  - [Music Store Data Analysis](https://github.com/daviddxuee/SQL_MUSIC_STORE)
+I am a Technology Consultant based in Los Angeles with experience in internal audit, data analytics, and process automation.
+I focus on building practical, business-oriented solutions that improve control testing, increase reporting visibility, and support cross-functional teams.
+I am currently targeting roles in <b>IT Audit</b>, <b>Data Analytics</b>, and <b>Technology Consulting</b>.
 
-<h2> 🤳 Connect with me:</h2>
+## 👨‍💻 Featured Projects
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 1) Music Store Data Analysis
+- Analyzed a music store relational database using SQL to answer business questions around sales trends, customer behavior, and product performance.
+- Demonstrates practical querying skills for stakeholder-ready insights.
+- **Tools:** SQL
+- **Repository:** [Music Store Data Analysis](https://github.com/daviddxuee/SQL_MUSIC_STORE)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### 2) SmartCheck – Sustainable Utility Monitoring & Consulting Service
+- Led field research and interview efforts to identify customer pain points related to utility usage.
+- Supported pricing and usage assumptions with survey data and supplier research.
+- Applied quantitative modeling techniques (including sensitivity testing and Monte Carlo simulation) to evaluate business viability.
+- **Focus Areas:** Market research, financial modeling, analytics, risk analysis
+- **Status:** Case/project summary available on request
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Skills
+- **Data & Analytics:** SQL, Power BI, Tableau, PostgreSQL
+- **Automation & Productivity:** Microsoft Excel, Microsoft Office Suite, Copilot, Workiva
+- **Platforms & Collaboration:** Azure DevOps, G-Suite
+- **Programming:** Python
+- **Languages:** English (Native), Mandarin (Native), Spanish (Conversational)
 
-Here are some ideas to get you started:
+## 🌱 Currently Building
+- Expanding analytics portfolio projects focused on business insights and dashboard storytelling
+- Improving end-to-end workflow automation for audit and reporting use cases
+- Continuing development in data analysis and technology consulting methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Professional Interests
+IT Audit • Data Analytics • Technology Consulting • Process Improvement • Cross-Functional Collaboration
+
+## 🌟 Personal Interests
+Golf • Gym • Road Cycling • Bartending • Fashion • Fragrances • Music
+
+## 🤳 Connect With Me
+- **LinkedIn:** [linkedin.com/in/daviddxuee](https://www.linkedin.com/in/daviddxuee/)
+- **Email:** davidxue0908@gmail.com
+
+---
+<p><i>Open to opportunities in IT Audit, Data Analytics, and Technology Consulting.</i></p>
