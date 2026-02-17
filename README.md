@@ -7,9 +7,9 @@ I focus on building practical, business-oriented solutions that improve control 
 I am currently targeting roles in <b>IT Audit</b>, <b>Data Analytics</b>, and <b>Technology Consulting</b>.
 
 ## 📄 Portfolio Documents
-- **SmartCheck Business Plan:** [View Document](./SmartCheck_Business_Plan.pdf)
-- **David Xue Resume (Current):** [View Resume](./David_Xue_Resume.pdf)
-
+- **SmartCheck Business Plan:** [View Document](./SmartCheck%20Business%20Plan.pdf)
+- **David Xue Resume (Current):** [View Resume](./David%20Xue_Resume_Jan%202026.pdf)
+  
 These links point to the two files uploaded in this repository so recruiters can quickly review project depth and current experience.
 
 ## 👨‍💻 Featured Projects
