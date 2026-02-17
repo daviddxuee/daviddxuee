@@ -6,12 +6,6 @@ I am a Technology Consultant based in Los Angeles with experience in internal au
 I focus on building practical, business-oriented solutions that improve control testing, increase reporting visibility, and support cross-functional teams.
 I am currently targeting roles in <b>IT Audit</b>, <b>Data Analytics</b>, and <b>Technology Consulting</b>.
 
-## 📄 Portfolio Documents
-- **SmartCheck Business Plan:** [View Document](./SmartCheck_Business_Plan.pdf)
-- **David Xue Resume (Current):** [View Resume](./David_Xue_Resume.pdf)
-
-> If your uploaded filenames differ, update the two links above to match the exact file names in this repository.
-
 ## 👨‍💻 Featured Projects
 
 ### 1) Music Store Data Analysis
@@ -25,7 +19,7 @@ I am currently targeting roles in <b>IT Audit</b>, <b>Data Analytics</b>, and <b
 - Supported pricing and usage assumptions with survey data and supplier research.
 - Applied quantitative modeling techniques (including sensitivity testing and Monte Carlo simulation) to evaluate business viability.
 - **Focus Areas:** Market research, financial modeling, analytics, risk analysis
-- **Business Plan:** Linked above in **Portfolio Documents**
+- **Status:** Case/project summary available on request
 
 ## 🧰 Skills
 - **Data & Analytics:** SQL, Power BI, Tableau, PostgreSQL
@@ -51,14 +45,3 @@ Golf • Gym • Road Cycling • Bartending • Fashion • Fragrances • Musi
 
 ---
 <p><i>Open to opportunities in IT Audit, Data Analytics, and Technology Consulting.</i></p>
-
-## 🌐 GitHub Pages Portfolio
-This repository now includes a static portfolio page:
-- `index.html`
-- `styles.css`
-
-To publish it on your `daviddxuee.github.io` site:
-1. Push these files to the root of your `daviddxuee.github.io` repository (or the branch configured for GitHub Pages).
-2. In GitHub, go to **Settings → Pages**.
-3. Set source to **Deploy from a branch** and choose the branch/folder containing `index.html`.
-4. Save and wait for deployment to complete.
