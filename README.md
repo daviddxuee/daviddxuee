@@ -8,7 +8,7 @@ I am currently targeting roles in <b>IT Audit</b>, <b>Data Analytics</b>, and <b
 
 ## 📄 Portfolio Documents
 - **SmartCheck Business Plan:** <a href="./SmartCheck%20Business%20Plan.pdf" target="_blank" rel="noopener noreferrer">View Document</a>
-- **David Xue Resume (Current):** <a href="./David%20Xue_Resume_March.pdf" target="_blank" rel="noopener noreferrer">View Resume</a>
+- **David Xue Resume (Current):** <a href="./David_Xue_Resume_March.pdf" target="_blank" rel="noopener noreferrer">View Resume</a>
   
 
 ## 👨‍💻 Featured Projects
