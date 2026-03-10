@@ -36,7 +36,7 @@ I am currently targeting roles in <b>IT Audit</b>, <b>Data Analytics</b>, and <b
 
 ## 🧰 Skills
 - **Data & Analytics:** SQL, Python, dbt, Snowflake, Power BI, Tableau, PostgreSQL
-- **Automation & Productivity:** Microsoft Excel, Microsoft Office Suite, Copilot, Workiva
+- **Automation & Productivity:** Microsoft Excel, Microsoft Office Suite, Copilot, Claude, Workiva
 - **Platforms & Collaboration:** Azure DevOps, G-Suite, Git, GitHub
 - **Languages:** English (Native), Mandarin (Native), Spanish (Conversational)
 
